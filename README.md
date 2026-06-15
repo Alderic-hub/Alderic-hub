@@ -13,15 +13,6 @@
 
 ---
 
-### 🚀 What I'm up to:
-
-- 🌐 Building a strong foundation in **frontend development** and modern web practices.
-- 📚 Learning **React and Tailwind CSS** and preparing for the transition into component-based development.
-- 🤝 Thinking about both sides of software — how users experience a product and how it creates value.
-- 🎯 Long-term goal: build software products and businesses that solve real problems.
-
----
-
 ### 🛠️ Technologies & Tools:
 
 <p align="left">
