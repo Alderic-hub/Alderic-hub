@@ -24,40 +24,67 @@
 
 ### 🛠️ Technologies & Tools:
 
-![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB)
-![PHP](https://img.shields.io/badge/PHP-Web-777BB4)
-![Responsive Design](https://img.shields.io/badge/Responsive-Design-blueviolet)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Repos-181717)
-![VS Code](https://img.shields.io/badge/VSCode-Editor-007ACC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-Learning-38B2AC)
-![React](https://img.shields.io/badge/React-Coming_Soon-61DAFB)
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ### 📌 Featured Projects:
 
-- ⌨️ **[MonkeyType Static Replica](https://github.com/Alderic-hub/monkeyType_static_replica-)** — Recreated the MonkeyType landing page from scratch using only HTML & CSS, no images or icons.
-- 🧠 **[MonkeyType From Memory](https://github.com/Alderic-hub/simple-mock-profile-page-form-memory-)** — Rebuilt the same page entirely from memory to sharpen layout recall and frontend intuition.
 - 🤖 **[Automated Quiz Wizard](https://github.com/Alderic-hub/automated-quizz-wizard)** — Scrapes questions from a website and completes them automatically with minimal human interaction using AI.
-- 🔲 **[Bento Grid](https://github.com/Alderic-hub/Bento_grid)** — A simple webpage built to practice CSS Grid layout skills.
-- 🪪 **[Profile Card Component](https://github.com/Alderic-hub/Profile-card-component)** — A basic profile card applying CSS layering techniques.
-- ✅ **[Social Proof Section](https://github.com/Alderic-hub/Social-proof-section)** — A clean HTML & CSS social proof section page.
-- 🔐 **[Mock Login Page](https://github.com/Alderic-hub/mock_login-page)** — A simple login page with sign-up and user data storage.
-- 🍽️ **[Recipe Page](https://github.com/Alderic-hub/Recipe_page)** — Practicing the basics of building an interactive and responsive website.
+- ⌨️ **[MonkeyType From Memory](https://github.com/Alderic-hub/simple-mock-profile-page-form-memory-)** — Rebuilt the MonkeyType landing page entirely from memory to sharpen layout recall and frontend intuition.
+- 🔐 **[Mock Login Page](https://github.com/Alderic-hub/mock_login-page)** — A login page with sign-up functionality and user data storage.
+- 🔲 **[Bento Grid](https://github.com/Alderic-hub/Bento_grid)** — A webpage built to practice CSS Grid layout skills.
 - 🎓 **[Web Design & Development Final Project](https://github.com/Alderic-hub/Web-Design-and-Development-Final-Project)** — University final project built with PHP.
-- 🏋️ **[Competitive Programming](https://github.com/Alderic-hub/Competitive_Programing)** — Python solutions for competitive programming problems.
 
 ---
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/abdeljelil-behredin-826956390)
-[![GitHub](https://img.shields.io/badge/GitHub-Alderic--hub-181717)](https://github.com/Alderic-hub)
-[![Email](https://img.shields.io/badge/Email-aldricrealm%40gmail.com-D14836)](mailto:aldricrealm@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdeljelil-behredin-826956390" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alderic-hub" height="30" width="40" />
+  </a>
+  <a href="mailto:aldricrealm@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" />
+  </a>
+    <a href="https://x.com/Aldric_Realm" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aldric_Realm" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/holo16835" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="holo16835" height="30" width="40" />
+  </a>
+  <a href="https://t.me/Just_hood" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Just_hood" height="30" width="40" />
+</a>
+  <a href="mailto:aldricrealm@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
